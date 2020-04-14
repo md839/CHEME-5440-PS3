@@ -6,15 +6,15 @@ Check_Balanced.jl - Checks that the stoichiometric matrix is properly balanced
 
 DataDictionary.jl - Data dictionary provided by Varner Lab
 
+FBounds.csv - States the min and max rates of the listed reactions
+
 Flux.jl - program to estimate the urea flux in the system
 
 Include.jl - ensures all the necessary packages are included in the file path
 
-minmaxBounds - States the min and max rates of the listed reactions
-
 Solve.jl - runs the Flux.jl program to determine the total urea flux 
 
-speciesBounds.csv - States the steady state bounds of concentration change in the system 
+SPCBounds.csv - States the steady state bounds of concentration change in the system 
 
 Stoich & Atom Matricies with headings.xls - Easier to read excel sheet of stoichiometric matrix and atom matrix
 
